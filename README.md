@@ -1,5 +1,5 @@
 
-Global Sales Data Analysis using Power BI
+            Global Sales Data Analysis using Power BI
 
 01. 📊 Project Overview
 The goal of this project is to perform data analysis on a global sales dataset and create an interactive dashboard using Power BI.
@@ -26,7 +26,7 @@ Used for data modeling, creating calculated columns, and building interactive da
 Data Visualization Techniques  
 Bar charts, line charts, KPI cards, and slicers were used to present insights clearly.
 
-04. 🧹 Data Cleaning & Preparation
+04. 🧹 Data Cleaning & Preparation 
 Before performing analysis, the dataset was cleaned and prepared to ensure accuracy and consistency.
 The following data preparation steps were performed:
 Removed unnecessary columns that were not required for analysis.
